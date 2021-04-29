@@ -1,0 +1,5 @@
+https://content.codecademy.com/programs/freelance-one/excursion/videos/excursion.mp4  mp4
+
+https://content.codecademy.com/programs/freelance-one/excursion/images/camp.jpg image of camp
+
+https://content.codecademy.com/programs/freelance-one/excursion/images/phone.png phone icon
