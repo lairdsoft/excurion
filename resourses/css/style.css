@@ -3,5 +3,11 @@ header {
     font-weight: normal;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
+    align-content: center;
+
+}
+
+body {
+    background-color: black;
     text-align: center;
 }
