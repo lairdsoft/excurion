@@ -1,3 +1,3 @@
-#This is my excurison project.
+# Excursion Project
 
-*By John Stewart
+This is my excursion project
